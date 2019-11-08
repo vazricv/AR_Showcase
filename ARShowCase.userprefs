@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{76ACF85C-DC2C-2AC6-E617-761960FCE51C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TargetInfo.cs">
+    <Files>
+      <File FileName="Assets/TargetInfo.cs" Line="16" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ARShowCase PreferredExecutionTarget="Unity.Editor" />
+</Properties>
