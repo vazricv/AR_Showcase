@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="mudra1" size="9.000000 16.325581"/>
+        <ImageTarget name="my6cmChakraBox.Front" size="6.000000 6.020067"/>
+        <ImageTarget name="my6cmChakraBox.Back" size="6.000000 6.020067"/>
+        <ImageTarget name="my6cmChakraBox.Left" size="6.000000 6.020067"/>
+        <ImageTarget name="my6cmChakraBox.Right" size="6.000000 6.020067"/>
+        <ImageTarget name="my6cmChakraBox.Top" size="6.000000 6.020067"/>
+        <ImageTarget name="my6cmChakraBox.Bottom" size="6.000000 6.020067"/>
+        <MultiTarget name="my6cmChakraBox">
+            <Part name="my6cmChakraBox.Left" translation="-3.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="my6cmChakraBox.Right" translation="3.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="my6cmChakraBox.Front" translation="0 0 3.0" rotation="AD: 1 0 0 0"/>
+            <Part name="my6cmChakraBox.Back" translation="0 0 -3.0" rotation="AD: 0 1 0 180"/>
+            <Part name="my6cmChakraBox.Top" translation="0 3.0 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="my6cmChakraBox.Bottom" translation="0 -3.0 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
